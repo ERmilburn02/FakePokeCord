@@ -1,0 +1,23 @@
+{
+  "name": "fakepokecord",
+  "version": "1.0.0",
+  "description": "Tried to recreate Pokécord in Discord.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERmilburn02/FakePokeCord.git"
+  },
+  "author": "ERmilburn02",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ERmilburn02/FakePokeCord/issues"
+  },
+  "homepage": "https://github.com/ERmilburn02/FakePokeCord#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "lowdb": "^1.0.0"
+  }
+}
