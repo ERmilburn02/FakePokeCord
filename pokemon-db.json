@@ -1,1 +1,1514 @@
-{}
+{
+  "gen1": [
+    {
+      "id": "1",
+      "identifier": "bulbasaur",
+      "species_id": "1",
+      "height": "7",
+      "weight": "69",
+      "base_experience": "64",
+      "order": "1",
+      "is_default": "1"
+    },
+    {
+      "id": "2",
+      "identifier": "ivysaur",
+      "species_id": "2",
+      "height": "10",
+      "weight": "130",
+      "base_experience": "142",
+      "order": "2",
+      "is_default": "1"
+    },
+    {
+      "id": "3",
+      "identifier": "venusaur",
+      "species_id": "3",
+      "height": "20",
+      "weight": "1000",
+      "base_experience": "236",
+      "order": "3",
+      "is_default": "1"
+    },
+    {
+      "id": "4",
+      "identifier": "charmander",
+      "species_id": "4",
+      "height": "6",
+      "weight": "85",
+      "base_experience": "62",
+      "order": "5",
+      "is_default": "1"
+    },
+    {
+      "id": "5",
+      "identifier": "charmeleon",
+      "species_id": "5",
+      "height": "11",
+      "weight": "190",
+      "base_experience": "142",
+      "order": "6",
+      "is_default": "1"
+    },
+    {
+      "id": "6",
+      "identifier": "charizard",
+      "species_id": "6",
+      "height": "17",
+      "weight": "905",
+      "base_experience": "240",
+      "order": "7",
+      "is_default": "1"
+    },
+    {
+      "id": "7",
+      "identifier": "squirtle",
+      "species_id": "7",
+      "height": "5",
+      "weight": "90",
+      "base_experience": "63",
+      "order": "10",
+      "is_default": "1"
+    },
+    {
+      "id": "8",
+      "identifier": "wartortle",
+      "species_id": "8",
+      "height": "10",
+      "weight": "225",
+      "base_experience": "142",
+      "order": "11",
+      "is_default": "1"
+    },
+    {
+      "id": "9",
+      "identifier": "blastoise",
+      "species_id": "9",
+      "height": "16",
+      "weight": "855",
+      "base_experience": "239",
+      "order": "12",
+      "is_default": "1"
+    },
+    {
+      "id": "10",
+      "identifier": "caterpie",
+      "species_id": "10",
+      "height": "3",
+      "weight": "29",
+      "base_experience": "39",
+      "order": "14",
+      "is_default": "1"
+    },
+    {
+      "id": "11",
+      "identifier": "metapod",
+      "species_id": "11",
+      "height": "7",
+      "weight": "99",
+      "base_experience": "72",
+      "order": "15",
+      "is_default": "1"
+    },
+    {
+      "id": "12",
+      "identifier": "butterfree",
+      "species_id": "12",
+      "height": "11",
+      "weight": "320",
+      "base_experience": "178",
+      "order": "16",
+      "is_default": "1"
+    },
+    {
+      "id": "13",
+      "identifier": "weedle",
+      "species_id": "13",
+      "height": "3",
+      "weight": "32",
+      "base_experience": "39",
+      "order": "17",
+      "is_default": "1"
+    },
+    {
+      "id": "14",
+      "identifier": "kakuna",
+      "species_id": "14",
+      "height": "6",
+      "weight": "100",
+      "base_experience": "72",
+      "order": "18",
+      "is_default": "1"
+    },
+    {
+      "id": "15",
+      "identifier": "beedrill",
+      "species_id": "15",
+      "height": "10",
+      "weight": "295",
+      "base_experience": "178",
+      "order": "19",
+      "is_default": "1"
+    },
+    {
+      "id": "16",
+      "identifier": "pidgey",
+      "species_id": "16",
+      "height": "3",
+      "weight": "18",
+      "base_experience": "50",
+      "order": "21",
+      "is_default": "1"
+    },
+    {
+      "id": "17",
+      "identifier": "pidgeotto",
+      "species_id": "17",
+      "height": "11",
+      "weight": "300",
+      "base_experience": "122",
+      "order": "22",
+      "is_default": "1"
+    },
+    {
+      "id": "18",
+      "identifier": "pidgeot",
+      "species_id": "18",
+      "height": "15",
+      "weight": "395",
+      "base_experience": "216",
+      "order": "23",
+      "is_default": "1"
+    },
+    {
+      "id": "19",
+      "identifier": "rattata",
+      "species_id": "19",
+      "height": "3",
+      "weight": "35",
+      "base_experience": "51",
+      "order": "25",
+      "is_default": "1"
+    },
+    {
+      "id": "20",
+      "identifier": "raticate",
+      "species_id": "20",
+      "height": "7",
+      "weight": "185",
+      "base_experience": "145",
+      "order": "27",
+      "is_default": "1"
+    },
+    {
+      "id": "21",
+      "identifier": "spearow",
+      "species_id": "21",
+      "height": "3",
+      "weight": "20",
+      "base_experience": "52",
+      "order": "30",
+      "is_default": "1"
+    },
+    {
+      "id": "22",
+      "identifier": "fearow",
+      "species_id": "22",
+      "height": "12",
+      "weight": "380",
+      "base_experience": "155",
+      "order": "31",
+      "is_default": "1"
+    },
+    {
+      "id": "23",
+      "identifier": "ekans",
+      "species_id": "23",
+      "height": "20",
+      "weight": "69",
+      "base_experience": "58",
+      "order": "32",
+      "is_default": "1"
+    },
+    {
+      "id": "24",
+      "identifier": "arbok",
+      "species_id": "24",
+      "height": "35",
+      "weight": "650",
+      "base_experience": "157",
+      "order": "33",
+      "is_default": "1"
+    },
+    {
+      "id": "25",
+      "identifier": "pikachu",
+      "species_id": "25",
+      "height": "4",
+      "weight": "60",
+      "base_experience": "112",
+      "order": "35",
+      "is_default": "1"
+    },
+    {
+      "id": "26",
+      "identifier": "raichu",
+      "species_id": "26",
+      "height": "8",
+      "weight": "300",
+      "base_experience": "218",
+      "order": "49",
+      "is_default": "1"
+    },
+    {
+      "id": "27",
+      "identifier": "sandshrew",
+      "species_id": "27",
+      "height": "6",
+      "weight": "120",
+      "base_experience": "60",
+      "order": "51",
+      "is_default": "1"
+    },
+    {
+      "id": "28",
+      "identifier": "sandslash",
+      "species_id": "28",
+      "height": "10",
+      "weight": "295",
+      "base_experience": "158",
+      "order": "53",
+      "is_default": "1"
+    },
+    {
+      "id": "29",
+      "identifier": "nidoran-f",
+      "species_id": "29",
+      "height": "4",
+      "weight": "70",
+      "base_experience": "55",
+      "order": "55",
+      "is_default": "1"
+    },
+    {
+      "id": "30",
+      "identifier": "nidorina",
+      "species_id": "30",
+      "height": "8",
+      "weight": "200",
+      "base_experience": "128",
+      "order": "56",
+      "is_default": "1"
+    },
+    {
+      "id": "31",
+      "identifier": "nidoqueen",
+      "species_id": "31",
+      "height": "13",
+      "weight": "600",
+      "base_experience": "227",
+      "order": "57",
+      "is_default": "1"
+    },
+    {
+      "id": "32",
+      "identifier": "nidoran-m",
+      "species_id": "32",
+      "height": "5",
+      "weight": "90",
+      "base_experience": "55",
+      "order": "58",
+      "is_default": "1"
+    },
+    {
+      "id": "33",
+      "identifier": "nidorino",
+      "species_id": "33",
+      "height": "9",
+      "weight": "195",
+      "base_experience": "128",
+      "order": "59",
+      "is_default": "1"
+    },
+    {
+      "id": "34",
+      "identifier": "nidoking",
+      "species_id": "34",
+      "height": "14",
+      "weight": "620",
+      "base_experience": "227",
+      "order": "60",
+      "is_default": "1"
+    },
+    {
+      "id": "35",
+      "identifier": "clefairy",
+      "species_id": "35",
+      "height": "6",
+      "weight": "75",
+      "base_experience": "113",
+      "order": "62",
+      "is_default": "1"
+    },
+    {
+      "id": "36",
+      "identifier": "clefable",
+      "species_id": "36",
+      "height": "13",
+      "weight": "400",
+      "base_experience": "217",
+      "order": "63",
+      "is_default": "1"
+    },
+    {
+      "id": "37",
+      "identifier": "vulpix",
+      "species_id": "37",
+      "height": "6",
+      "weight": "99",
+      "base_experience": "60",
+      "order": "64",
+      "is_default": "1"
+    },
+    {
+      "id": "38",
+      "identifier": "ninetales",
+      "species_id": "38",
+      "height": "11",
+      "weight": "199",
+      "base_experience": "177",
+      "order": "66",
+      "is_default": "1"
+    },
+    {
+      "id": "39",
+      "identifier": "jigglypuff",
+      "species_id": "39",
+      "height": "5",
+      "weight": "55",
+      "base_experience": "95",
+      "order": "69",
+      "is_default": "1"
+    },
+    {
+      "id": "40",
+      "identifier": "wigglytuff",
+      "species_id": "40",
+      "height": "10",
+      "weight": "120",
+      "base_experience": "196",
+      "order": "70",
+      "is_default": "1"
+    },
+    {
+      "id": "41",
+      "identifier": "zubat",
+      "species_id": "41",
+      "height": "8",
+      "weight": "75",
+      "base_experience": "49",
+      "order": "71",
+      "is_default": "1"
+    },
+    {
+      "id": "42",
+      "identifier": "golbat",
+      "species_id": "42",
+      "height": "16",
+      "weight": "550",
+      "base_experience": "159",
+      "order": "72",
+      "is_default": "1"
+    },
+    {
+      "id": "43",
+      "identifier": "oddish",
+      "species_id": "43",
+      "height": "5",
+      "weight": "54",
+      "base_experience": "64",
+      "order": "74",
+      "is_default": "1"
+    },
+    {
+      "id": "44",
+      "identifier": "gloom",
+      "species_id": "44",
+      "height": "8",
+      "weight": "86",
+      "base_experience": "138",
+      "order": "75",
+      "is_default": "1"
+    },
+    {
+      "id": "45",
+      "identifier": "vileplume",
+      "species_id": "45",
+      "height": "12",
+      "weight": "186",
+      "base_experience": "221",
+      "order": "76",
+      "is_default": "1"
+    },
+    {
+      "id": "46",
+      "identifier": "paras",
+      "species_id": "46",
+      "height": "3",
+      "weight": "54",
+      "base_experience": "57",
+      "order": "78",
+      "is_default": "1"
+    },
+    {
+      "id": "47",
+      "identifier": "parasect",
+      "species_id": "47",
+      "height": "10",
+      "weight": "295",
+      "base_experience": "142",
+      "order": "79",
+      "is_default": "1"
+    },
+    {
+      "id": "48",
+      "identifier": "venonat",
+      "species_id": "48",
+      "height": "10",
+      "weight": "300",
+      "base_experience": "61",
+      "order": "80",
+      "is_default": "1"
+    },
+    {
+      "id": "49",
+      "identifier": "venomoth",
+      "species_id": "49",
+      "height": "15",
+      "weight": "125",
+      "base_experience": "158",
+      "order": "81",
+      "is_default": "1"
+    },
+    {
+      "id": "50",
+      "identifier": "diglett",
+      "species_id": "50",
+      "height": "2",
+      "weight": "8",
+      "base_experience": "53",
+      "order": "82",
+      "is_default": "1"
+    },
+    {
+      "id": "51",
+      "identifier": "dugtrio",
+      "species_id": "51",
+      "height": "7",
+      "weight": "333",
+      "base_experience": "149",
+      "order": "84",
+      "is_default": "1"
+    },
+    {
+      "id": "52",
+      "identifier": "meowth",
+      "species_id": "52",
+      "height": "4",
+      "weight": "42",
+      "base_experience": "58",
+      "order": "86",
+      "is_default": "1"
+    },
+    {
+      "id": "53",
+      "identifier": "persian",
+      "species_id": "53",
+      "height": "10",
+      "weight": "320",
+      "base_experience": "154",
+      "order": "88",
+      "is_default": "1"
+    },
+    {
+      "id": "54",
+      "identifier": "psyduck",
+      "species_id": "54",
+      "height": "8",
+      "weight": "196",
+      "base_experience": "64",
+      "order": "90",
+      "is_default": "1"
+    },
+    {
+      "id": "55",
+      "identifier": "golduck",
+      "species_id": "55",
+      "height": "17",
+      "weight": "766",
+      "base_experience": "175",
+      "order": "91",
+      "is_default": "1"
+    },
+    {
+      "id": "56",
+      "identifier": "mankey",
+      "species_id": "56",
+      "height": "5",
+      "weight": "280",
+      "base_experience": "61",
+      "order": "92",
+      "is_default": "1"
+    },
+    {
+      "id": "57",
+      "identifier": "primeape",
+      "species_id": "57",
+      "height": "10",
+      "weight": "320",
+      "base_experience": "159",
+      "order": "93",
+      "is_default": "1"
+    },
+    {
+      "id": "58",
+      "identifier": "growlithe",
+      "species_id": "58",
+      "height": "7",
+      "weight": "190",
+      "base_experience": "70",
+      "order": "94",
+      "is_default": "1"
+    },
+    {
+      "id": "59",
+      "identifier": "arcanine",
+      "species_id": "59",
+      "height": "19",
+      "weight": "1550",
+      "base_experience": "194",
+      "order": "95",
+      "is_default": "1"
+    },
+    {
+      "id": "60",
+      "identifier": "poliwag",
+      "species_id": "60",
+      "height": "6",
+      "weight": "124",
+      "base_experience": "60",
+      "order": "96",
+      "is_default": "1"
+    },
+    {
+      "id": "61",
+      "identifier": "poliwhirl",
+      "species_id": "61",
+      "height": "10",
+      "weight": "200",
+      "base_experience": "135",
+      "order": "97",
+      "is_default": "1"
+    },
+    {
+      "id": "62",
+      "identifier": "poliwrath",
+      "species_id": "62",
+      "height": "13",
+      "weight": "540",
+      "base_experience": "230",
+      "order": "98",
+      "is_default": "1"
+    },
+    {
+      "id": "63",
+      "identifier": "abra",
+      "species_id": "63",
+      "height": "9",
+      "weight": "195",
+      "base_experience": "62",
+      "order": "100",
+      "is_default": "1"
+    },
+    {
+      "id": "64",
+      "identifier": "kadabra",
+      "species_id": "64",
+      "height": "13",
+      "weight": "565",
+      "base_experience": "140",
+      "order": "101",
+      "is_default": "1"
+    },
+    {
+      "id": "65",
+      "identifier": "alakazam",
+      "species_id": "65",
+      "height": "15",
+      "weight": "480",
+      "base_experience": "225",
+      "order": "102",
+      "is_default": "1"
+    },
+    {
+      "id": "66",
+      "identifier": "machop",
+      "species_id": "66",
+      "height": "8",
+      "weight": "195",
+      "base_experience": "61",
+      "order": "104",
+      "is_default": "1"
+    },
+    {
+      "id": "67",
+      "identifier": "machoke",
+      "species_id": "67",
+      "height": "15",
+      "weight": "705",
+      "base_experience": "142",
+      "order": "105",
+      "is_default": "1"
+    },
+    {
+      "id": "68",
+      "identifier": "machamp",
+      "species_id": "68",
+      "height": "16",
+      "weight": "1300",
+      "base_experience": "227",
+      "order": "106",
+      "is_default": "1"
+    },
+    {
+      "id": "69",
+      "identifier": "bellsprout",
+      "species_id": "69",
+      "height": "7",
+      "weight": "40",
+      "base_experience": "60",
+      "order": "107",
+      "is_default": "1"
+    },
+    {
+      "id": "70",
+      "identifier": "weepinbell",
+      "species_id": "70",
+      "height": "10",
+      "weight": "64",
+      "base_experience": "137",
+      "order": "108",
+      "is_default": "1"
+    },
+    {
+      "id": "71",
+      "identifier": "victreebel",
+      "species_id": "71",
+      "height": "17",
+      "weight": "155",
+      "base_experience": "221",
+      "order": "109",
+      "is_default": "1"
+    },
+    {
+      "id": "72",
+      "identifier": "tentacool",
+      "species_id": "72",
+      "height": "9",
+      "weight": "455",
+      "base_experience": "67",
+      "order": "110",
+      "is_default": "1"
+    },
+    {
+      "id": "73",
+      "identifier": "tentacruel",
+      "species_id": "73",
+      "height": "16",
+      "weight": "550",
+      "base_experience": "180",
+      "order": "111",
+      "is_default": "1"
+    },
+    {
+      "id": "74",
+      "identifier": "geodude",
+      "species_id": "74",
+      "height": "4",
+      "weight": "200",
+      "base_experience": "60",
+      "order": "112",
+      "is_default": "1"
+    },
+    {
+      "id": "75",
+      "identifier": "graveler",
+      "species_id": "75",
+      "height": "10",
+      "weight": "1050",
+      "base_experience": "137",
+      "order": "114",
+      "is_default": "1"
+    },
+    {
+      "id": "76",
+      "identifier": "golem",
+      "species_id": "76",
+      "height": "14",
+      "weight": "3000",
+      "base_experience": "223",
+      "order": "116",
+      "is_default": "1"
+    },
+    {
+      "id": "77",
+      "identifier": "ponyta",
+      "species_id": "77",
+      "height": "10",
+      "weight": "300",
+      "base_experience": "82",
+      "order": "118",
+      "is_default": "1"
+    },
+    {
+      "id": "78",
+      "identifier": "rapidash",
+      "species_id": "78",
+      "height": "17",
+      "weight": "950",
+      "base_experience": "175",
+      "order": "119",
+      "is_default": "1"
+    },
+    {
+      "id": "79",
+      "identifier": "slowpoke",
+      "species_id": "79",
+      "height": "12",
+      "weight": "360",
+      "base_experience": "63",
+      "order": "120",
+      "is_default": "1"
+    },
+    {
+      "id": "80",
+      "identifier": "slowbro",
+      "species_id": "80",
+      "height": "16",
+      "weight": "785",
+      "base_experience": "172",
+      "order": "121",
+      "is_default": "1"
+    },
+    {
+      "id": "81",
+      "identifier": "magnemite",
+      "species_id": "81",
+      "height": "3",
+      "weight": "60",
+      "base_experience": "65",
+      "order": "124",
+      "is_default": "1"
+    },
+    {
+      "id": "82",
+      "identifier": "magneton",
+      "species_id": "82",
+      "height": "10",
+      "weight": "600",
+      "base_experience": "163",
+      "order": "125",
+      "is_default": "1"
+    },
+    {
+      "id": "83",
+      "identifier": "farfetchd",
+      "species_id": "83",
+      "height": "8",
+      "weight": "150",
+      "base_experience": "132",
+      "order": "127",
+      "is_default": "1"
+    },
+    {
+      "id": "84",
+      "identifier": "doduo",
+      "species_id": "84",
+      "height": "14",
+      "weight": "392",
+      "base_experience": "62",
+      "order": "128",
+      "is_default": "1"
+    },
+    {
+      "id": "85",
+      "identifier": "dodrio",
+      "species_id": "85",
+      "height": "18",
+      "weight": "852",
+      "base_experience": "165",
+      "order": "129",
+      "is_default": "1"
+    },
+    {
+      "id": "86",
+      "identifier": "seel",
+      "species_id": "86",
+      "height": "11",
+      "weight": "900",
+      "base_experience": "65",
+      "order": "130",
+      "is_default": "1"
+    },
+    {
+      "id": "87",
+      "identifier": "dewgong",
+      "species_id": "87",
+      "height": "17",
+      "weight": "1200",
+      "base_experience": "166",
+      "order": "131",
+      "is_default": "1"
+    },
+    {
+      "id": "88",
+      "identifier": "grimer",
+      "species_id": "88",
+      "height": "9",
+      "weight": "300",
+      "base_experience": "65",
+      "order": "132",
+      "is_default": "1"
+    },
+    {
+      "id": "89",
+      "identifier": "muk",
+      "species_id": "89",
+      "height": "12",
+      "weight": "300",
+      "base_experience": "175",
+      "order": "134",
+      "is_default": "1"
+    },
+    {
+      "id": "90",
+      "identifier": "shellder",
+      "species_id": "90",
+      "height": "3",
+      "weight": "40",
+      "base_experience": "61",
+      "order": "136",
+      "is_default": "1"
+    },
+    {
+      "id": "91",
+      "identifier": "cloyster",
+      "species_id": "91",
+      "height": "15",
+      "weight": "1325",
+      "base_experience": "184",
+      "order": "137",
+      "is_default": "1"
+    },
+    {
+      "id": "92",
+      "identifier": "gastly",
+      "species_id": "92",
+      "height": "13",
+      "weight": "1",
+      "base_experience": "62",
+      "order": "138",
+      "is_default": "1"
+    },
+    {
+      "id": "93",
+      "identifier": "haunter",
+      "species_id": "93",
+      "height": "16",
+      "weight": "1",
+      "base_experience": "142",
+      "order": "139",
+      "is_default": "1"
+    },
+    {
+      "id": "94",
+      "identifier": "gengar",
+      "species_id": "94",
+      "height": "15",
+      "weight": "405",
+      "base_experience": "225",
+      "order": "140",
+      "is_default": "1"
+    },
+    {
+      "id": "95",
+      "identifier": "onix",
+      "species_id": "95",
+      "height": "88",
+      "weight": "2100",
+      "base_experience": "77",
+      "order": "142",
+      "is_default": "1"
+    },
+    {
+      "id": "96",
+      "identifier": "drowzee",
+      "species_id": "96",
+      "height": "10",
+      "weight": "324",
+      "base_experience": "66",
+      "order": "145",
+      "is_default": "1"
+    },
+    {
+      "id": "97",
+      "identifier": "hypno",
+      "species_id": "97",
+      "height": "16",
+      "weight": "756",
+      "base_experience": "169",
+      "order": "146",
+      "is_default": "1"
+    },
+    {
+      "id": "98",
+      "identifier": "krabby",
+      "species_id": "98",
+      "height": "4",
+      "weight": "65",
+      "base_experience": "65",
+      "order": "147",
+      "is_default": "1"
+    },
+    {
+      "id": "99",
+      "identifier": "kingler",
+      "species_id": "99",
+      "height": "13",
+      "weight": "600",
+      "base_experience": "166",
+      "order": "148",
+      "is_default": "1"
+    },
+    {
+      "id": "100",
+      "identifier": "voltorb",
+      "species_id": "100",
+      "height": "5",
+      "weight": "104",
+      "base_experience": "66",
+      "order": "149",
+      "is_default": "1"
+    },
+    {
+      "id": "101",
+      "identifier": "electrode",
+      "species_id": "101",
+      "height": "12",
+      "weight": "666",
+      "base_experience": "172",
+      "order": "150",
+      "is_default": "1"
+    },
+    {
+      "id": "102",
+      "identifier": "exeggcute",
+      "species_id": "102",
+      "height": "4",
+      "weight": "25",
+      "base_experience": "65",
+      "order": "151",
+      "is_default": "1"
+    },
+    {
+      "id": "103",
+      "identifier": "exeggutor",
+      "species_id": "103",
+      "height": "20",
+      "weight": "1200",
+      "base_experience": "186",
+      "order": "152",
+      "is_default": "1"
+    },
+    {
+      "id": "104",
+      "identifier": "cubone",
+      "species_id": "104",
+      "height": "4",
+      "weight": "65",
+      "base_experience": "64",
+      "order": "154",
+      "is_default": "1"
+    },
+    {
+      "id": "105",
+      "identifier": "marowak",
+      "species_id": "105",
+      "height": "10",
+      "weight": "450",
+      "base_experience": "149",
+      "order": "155",
+      "is_default": "1"
+    },
+    {
+      "id": "106",
+      "identifier": "hitmonlee",
+      "species_id": "106",
+      "height": "15",
+      "weight": "498",
+      "base_experience": "159",
+      "order": "159",
+      "is_default": "1"
+    },
+    {
+      "id": "107",
+      "identifier": "hitmonchan",
+      "species_id": "107",
+      "height": "14",
+      "weight": "502",
+      "base_experience": "159",
+      "order": "160",
+      "is_default": "1"
+    },
+    {
+      "id": "108",
+      "identifier": "lickitung",
+      "species_id": "108",
+      "height": "12",
+      "weight": "655",
+      "base_experience": "77",
+      "order": "162",
+      "is_default": "1"
+    },
+    {
+      "id": "109",
+      "identifier": "koffing",
+      "species_id": "109",
+      "height": "6",
+      "weight": "10",
+      "base_experience": "68",
+      "order": "164",
+      "is_default": "1"
+    },
+    {
+      "id": "110",
+      "identifier": "weezing",
+      "species_id": "110",
+      "height": "12",
+      "weight": "95",
+      "base_experience": "172",
+      "order": "165",
+      "is_default": "1"
+    },
+    {
+      "id": "111",
+      "identifier": "rhyhorn",
+      "species_id": "111",
+      "height": "10",
+      "weight": "1150",
+      "base_experience": "69",
+      "order": "166",
+      "is_default": "1"
+    },
+    {
+      "id": "112",
+      "identifier": "rhydon",
+      "species_id": "112",
+      "height": "19",
+      "weight": "1200",
+      "base_experience": "170",
+      "order": "167",
+      "is_default": "1"
+    },
+    {
+      "id": "113",
+      "identifier": "chansey",
+      "species_id": "113",
+      "height": "11",
+      "weight": "346",
+      "base_experience": "395",
+      "order": "170",
+      "is_default": "1"
+    },
+    {
+      "id": "114",
+      "identifier": "tangela",
+      "species_id": "114",
+      "height": "10",
+      "weight": "350",
+      "base_experience": "87",
+      "order": "172",
+      "is_default": "1"
+    },
+    {
+      "id": "115",
+      "identifier": "kangaskhan",
+      "species_id": "115",
+      "height": "22",
+      "weight": "800",
+      "base_experience": "172",
+      "order": "174",
+      "is_default": "1"
+    },
+    {
+      "id": "116",
+      "identifier": "horsea",
+      "species_id": "116",
+      "height": "4",
+      "weight": "80",
+      "base_experience": "59",
+      "order": "176",
+      "is_default": "1"
+    },
+    {
+      "id": "117",
+      "identifier": "seadra",
+      "species_id": "117",
+      "height": "12",
+      "weight": "250",
+      "base_experience": "154",
+      "order": "177",
+      "is_default": "1"
+    },
+    {
+      "id": "118",
+      "identifier": "goldeen",
+      "species_id": "118",
+      "height": "6",
+      "weight": "150",
+      "base_experience": "64",
+      "order": "179",
+      "is_default": "1"
+    },
+    {
+      "id": "119",
+      "identifier": "seaking",
+      "species_id": "119",
+      "height": "13",
+      "weight": "390",
+      "base_experience": "158",
+      "order": "180",
+      "is_default": "1"
+    },
+    {
+      "id": "120",
+      "identifier": "staryu",
+      "species_id": "120",
+      "height": "8",
+      "weight": "345",
+      "base_experience": "68",
+      "order": "181",
+      "is_default": "1"
+    },
+    {
+      "id": "121",
+      "identifier": "starmie",
+      "species_id": "121",
+      "height": "11",
+      "weight": "800",
+      "base_experience": "182",
+      "order": "182",
+      "is_default": "1"
+    },
+    {
+      "id": "122",
+      "identifier": "mr-mime",
+      "species_id": "122",
+      "height": "13",
+      "weight": "545",
+      "base_experience": "161",
+      "order": "184",
+      "is_default": "1"
+    },
+    {
+      "id": "123",
+      "identifier": "scyther",
+      "species_id": "123",
+      "height": "15",
+      "weight": "560",
+      "base_experience": "100",
+      "order": "185",
+      "is_default": "1"
+    },
+    {
+      "id": "124",
+      "identifier": "jynx",
+      "species_id": "124",
+      "height": "14",
+      "weight": "406",
+      "base_experience": "159",
+      "order": "189",
+      "is_default": "1"
+    },
+    {
+      "id": "125",
+      "identifier": "electabuzz",
+      "species_id": "125",
+      "height": "11",
+      "weight": "300",
+      "base_experience": "172",
+      "order": "191",
+      "is_default": "1"
+    },
+    {
+      "id": "126",
+      "identifier": "magmar",
+      "species_id": "126",
+      "height": "13",
+      "weight": "445",
+      "base_experience": "173",
+      "order": "194",
+      "is_default": "1"
+    },
+    {
+      "id": "127",
+      "identifier": "pinsir",
+      "species_id": "127",
+      "height": "15",
+      "weight": "550",
+      "base_experience": "175",
+      "order": "196",
+      "is_default": "1"
+    },
+    {
+      "id": "128",
+      "identifier": "tauros",
+      "species_id": "128",
+      "height": "14",
+      "weight": "884",
+      "base_experience": "172",
+      "order": "198",
+      "is_default": "1"
+    },
+    {
+      "id": "129",
+      "identifier": "magikarp",
+      "species_id": "129",
+      "height": "9",
+      "weight": "100",
+      "base_experience": "40",
+      "order": "199",
+      "is_default": "1"
+    },
+    {
+      "id": "130",
+      "identifier": "gyarados",
+      "species_id": "130",
+      "height": "65",
+      "weight": "2350",
+      "base_experience": "189",
+      "order": "200",
+      "is_default": "1"
+    },
+    {
+      "id": "131",
+      "identifier": "lapras",
+      "species_id": "131",
+      "height": "25",
+      "weight": "2200",
+      "base_experience": "187",
+      "order": "202",
+      "is_default": "1"
+    },
+    {
+      "id": "132",
+      "identifier": "ditto",
+      "species_id": "132",
+      "height": "3",
+      "weight": "40",
+      "base_experience": "101",
+      "order": "203",
+      "is_default": "1"
+    },
+    {
+      "id": "133",
+      "identifier": "eevee",
+      "species_id": "133",
+      "height": "3",
+      "weight": "65",
+      "base_experience": "65",
+      "order": "204",
+      "is_default": "1"
+    },
+    {
+      "id": "134",
+      "identifier": "vaporeon",
+      "species_id": "134",
+      "height": "10",
+      "weight": "290",
+      "base_experience": "184",
+      "order": "205",
+      "is_default": "1"
+    },
+    {
+      "id": "135",
+      "identifier": "jolteon",
+      "species_id": "135",
+      "height": "8",
+      "weight": "245",
+      "base_experience": "184",
+      "order": "206",
+      "is_default": "1"
+    },
+    {
+      "id": "136",
+      "identifier": "flareon",
+      "species_id": "136",
+      "height": "9",
+      "weight": "250",
+      "base_experience": "184",
+      "order": "207",
+      "is_default": "1"
+    },
+    {
+      "id": "137",
+      "identifier": "porygon",
+      "species_id": "137",
+      "height": "8",
+      "weight": "365",
+      "base_experience": "79",
+      "order": "213",
+      "is_default": "1"
+    },
+    {
+      "id": "138",
+      "identifier": "omanyte",
+      "species_id": "138",
+      "height": "4",
+      "weight": "75",
+      "base_experience": "71",
+      "order": "216",
+      "is_default": "1"
+    },
+    {
+      "id": "139",
+      "identifier": "omastar",
+      "species_id": "139",
+      "height": "10",
+      "weight": "350",
+      "base_experience": "173",
+      "order": "217",
+      "is_default": "1"
+    },
+    {
+      "id": "140",
+      "identifier": "kabuto",
+      "species_id": "140",
+      "height": "5",
+      "weight": "115",
+      "base_experience": "71",
+      "order": "218",
+      "is_default": "1"
+    },
+    {
+      "id": "141",
+      "identifier": "kabutops",
+      "species_id": "141",
+      "height": "13",
+      "weight": "405",
+      "base_experience": "173",
+      "order": "219",
+      "is_default": "1"
+    },
+    {
+      "id": "142",
+      "identifier": "aerodactyl",
+      "species_id": "142",
+      "height": "18",
+      "weight": "590",
+      "base_experience": "180",
+      "order": "220",
+      "is_default": "1"
+    },
+    {
+      "id": "143",
+      "identifier": "snorlax",
+      "species_id": "143",
+      "height": "21",
+      "weight": "4600",
+      "base_experience": "189",
+      "order": "223",
+      "is_default": "1"
+    },
+    {
+      "id": "144",
+      "identifier": "articuno",
+      "species_id": "144",
+      "height": "17",
+      "weight": "554",
+      "base_experience": "261",
+      "order": "224",
+      "is_default": "1"
+    },
+    {
+      "id": "145",
+      "identifier": "zapdos",
+      "species_id": "145",
+      "height": "16",
+      "weight": "526",
+      "base_experience": "261",
+      "order": "225",
+      "is_default": "1"
+    },
+    {
+      "id": "146",
+      "identifier": "moltres",
+      "species_id": "146",
+      "height": "20",
+      "weight": "600",
+      "base_experience": "261",
+      "order": "226",
+      "is_default": "1"
+    },
+    {
+      "id": "147",
+      "identifier": "dratini",
+      "species_id": "147",
+      "height": "18",
+      "weight": "33",
+      "base_experience": "60",
+      "order": "227",
+      "is_default": "1"
+    },
+    {
+      "id": "148",
+      "identifier": "dragonair",
+      "species_id": "148",
+      "height": "40",
+      "weight": "165",
+      "base_experience": "147",
+      "order": "228",
+      "is_default": "1"
+    },
+    {
+      "id": "149",
+      "identifier": "dragonite",
+      "species_id": "149",
+      "height": "22",
+      "weight": "2100",
+      "base_experience": "270",
+      "order": "229",
+      "is_default": "1"
+    },
+    {
+      "id": "150",
+      "identifier": "mewtwo",
+      "species_id": "150",
+      "height": "20",
+      "weight": "1220",
+      "base_experience": "306",
+      "order": "230",
+      "is_default": "1"
+    },
+    {
+      "id": "151",
+      "identifier": "mew",
+      "species_id": "151",
+      "height": "4",
+      "weight": "40",
+      "base_experience": "270",
+      "order": "233",
+      "is_default": "1"
+    }
+  ]
+}
